@@ -29,6 +29,5 @@ class Lanzamiento{
     }, 1000)
   }
 }
-//Jul 30 2018 06:44:38 GMT-0500
-lanzamiento = new Lanzamiento("08/01/2018 07:00 AM",".time");
+lanzamiento = new Lanzamiento("20/01/2018 07:00 AM",".time");
 lanzamiento.iniciar()
