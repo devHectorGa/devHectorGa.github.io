@@ -29,5 +29,5 @@ class Lanzamiento{
     }, 1000)
   }
 }
-lanzamiento = new Lanzamiento("08/20/2018 07:00 AM",".time");
+lanzamiento = new Lanzamiento("12/22/2018 07:00 AM",".time");
 lanzamiento.iniciar()
